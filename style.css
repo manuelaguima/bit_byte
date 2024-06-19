@@ -1,0 +1,30 @@
+body{
+    background-color: mediumpurple;
+    height: 43vh;
+    margin: 100px;
+   text-align: center;
+   font-size: 25px;
+   border: white 11px dotted;
+   border-radius: 60px;
+   box-shadow: 0px 4px 10px white;
+   
+}
+
+img{
+width: 400px;
+height: 300px;
+}
+
+button, a {
+    text-align: center;
+    background-color: mediumpurple;
+   text-align: center;
+   font-size: 25px;
+}
+
+/*box{
+    border: white 11px dotted;
+    border-radius: 60px;
+    box-shadow: 0px 4px 10px white;
+
+}

@@ -1,0 +1,21 @@
+body{
+    background-color: mediumpurple;
+    height: 43vh;
+    margin: 100px;
+   text-align: center;
+   font-size: 25px;
+
+   
+}
+
+img{
+width: 400px;
+height: 300px;
+}
+
+button, a {
+    text-align: center;
+    background-color: mediumpurple;
+   text-align: center;
+   font-size: 25px;
+}
